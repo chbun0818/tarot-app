@@ -70,3 +70,5 @@ if st.button("✨ 尋求宇宙的共振"):
                 st.write(card['fortune'])
                 
                 st.caption("願星辰指引你的方向。")
+
+dddd
